@@ -1,6 +1,6 @@
 # Lab Solutions for the CE888 module
 
-This repository contains all the code files related to labs of the Data Science and Decesion Making (CE888) module. Here are the titles along with links to the relevant repositories:
+This repository contains all the code files related to labs of the Data Science and Decesion Making (CE888) module. Here are the lab topics along with links to their relevant repositories:
 
 - Lab 1: Introduction ([Link](https://github.com/ihab09/CE888/tree/main/Lab_1)).
 - Lab 2: Statistics ([Link](https://github.com/ihab09/CE888/tree/main/lab_2)).
