@@ -1,7 +1,7 @@
 # CE888 Module - Project 2 - Assignment 2
 ## Project Title: Fine-Tuning DeBERTa and BERTweet on Three Heterogeneous Tweet Classification Tasks
 
-This repository contains the all the code files for assignment 2 of the Data Science and Decesion Making module.  
+This repository contains all the code files for assignment 2 of the Data Science and Decesion Making module.  
 
 ##
 
